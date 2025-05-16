@@ -1,1 +1,10 @@
+# Before Automation
+Build Time: Manual
+Deployment Time: Manual
+Failure Rate: N/A
 
+# After Automation
+Build Time: ~1 mins (CI)
+Deployment Time: Instant (via push)
+Failure Rate: 0 (demo)
+Conclusion: Automation saved time, improved reliability, and enabled fast delivery.
